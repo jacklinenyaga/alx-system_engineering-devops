@@ -1,1 +1,2 @@
-README file
+#!/bin/bash
+shell basics
